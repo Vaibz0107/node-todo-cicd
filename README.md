@@ -18,3 +18,5 @@ or Run by docker compose
 test
 
 connection establish between jenkins and github
+
+docker must be installed
